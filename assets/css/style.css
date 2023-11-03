@@ -361,6 +361,7 @@ a:focus {
 }
 
 .furniture_section .box .detail-box .price_box {
+  color: rgb(59, 112, 155);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -374,7 +375,7 @@ a:focus {
 }
 
 .furniture_section .box .detail-box .price_box .price_heading span {
-  color: #6ea3e9;
+  color: #000000;
 }
 
 .furniture_section .box .detail-box .price_box a {
