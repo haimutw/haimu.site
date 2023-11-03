@@ -90,7 +90,7 @@ body {
 .custom_nav-container .navbar-nav .nav-item .nav-link {
   padding: 3px 15px;
   margin: 10px 15px;
-  color: #272727;
+  color: #00b7ff;
   text-align: center;
   text-transform: uppercase;
 }
@@ -123,7 +123,7 @@ a:focus {
 .navbar-brand span {
   font-size: 24px;
   font-weight: 700;
-  color: #272727;
+  color: #363636;
   text-transform: uppercase;
 }
 
@@ -200,7 +200,7 @@ a:focus {
 }
 
 .quote_btn-container a {
-  color: #151515;
+  color: #7a7a7a;
   margin-right: 25px;
   text-transform: uppercase;
 }
@@ -222,7 +222,7 @@ a:focus {
       -ms-flex-align: center;
           align-items: center;
   position: relative;
-  background-color: #f9fafa;
+  background-color: #fcfcfc;
 }
 
 .slider_section .row {
@@ -266,33 +266,33 @@ a:focus {
 .slider_section .detail-box .btn-box .btn1 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #f89646;
+  background-color: rgb(226, 59, 59);
   color: #ffffff;
   border-radius: 0;
-  border: 1px solid #f89646;
+  border: 1px solid #f84646;
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .slider_section .detail-box .btn-box .btn1:hover {
   background-color: transparent;
-  color: #f89646;
+  color: #000000;
 }
 
 .slider_section .detail-box .btn-box .btn2 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #6bb7be;
+  background-color: #4a8fdd;
   color: #ffffff;
   border-radius: 0;
-  border: 1px solid #6bb7be;
+  border: 1px solid #6bb2be;
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .slider_section .detail-box .btn-box .btn2:hover {
   background-color: transparent;
-  color: #6bb7be;
+  color: #000000;
 }
 
 .slider_section .img-box img {
@@ -312,7 +312,7 @@ a:focus {
 }
 
 .slider_section .carousel-indicators li {
-  background-color: #6bb7be;
+  background-color: #a1a1a1;
   width: 12px;
   height: 12px;
   border-radius: 100%;
@@ -322,12 +322,12 @@ a:focus {
 .slider_section .carousel-indicators li.active {
   width: 17px;
   height: 17px;
-  background-color: #f89646;
+  background-color: #46a2f8;
 }
 
 .furniture_section .box {
   margin-top: 45px;
-  background-color: #f7fafa;
+  background-color: rgb(238, 238, 238);
   padding: 25px;
   border-radius: 5px;
 }
@@ -374,11 +374,11 @@ a:focus {
 }
 
 .furniture_section .box .detail-box .price_box .price_heading span {
-  color: #6bb7be;
+  color: #6ea3e9;
 }
 
 .furniture_section .box .detail-box .price_box a {
-  color: #6bb7be;
+  color: rgb(30, 165, 228);
   text-transform: uppercase;
   font-size: 15px;
 }
@@ -405,17 +405,17 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #6bb7be;
+  background-color: rgb(30, 154, 226);
   color: #ffffff;
   border-radius: 0;
-  border: 1px solid #6bb7be;
+  border: 1px solid rgb(30, 154, 226);
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .about_section .detail-box a:hover {
   background-color: transparent;
-  color: #6bb7be;
+  color: rgb(30, 154, 226);
 }
 
 .blog_section .heading_container {
@@ -461,17 +461,17 @@ a:focus {
 .blog_section .box .detail-box a {
   display: inline-block;
   padding: 10px 30px;
-  background-color: #6bb7be;
+  background-color: rgb(30, 154, 226);
   color: #ffffff;
   border-radius: 0;
-  border: 1px solid #6bb7be;
+  border: 1px solid rgb(30, 154, 226);
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .blog_section .box .detail-box a:hover {
   background-color: transparent;
-  color: #6bb7be;
+  color: rgb(0, 0, 0);
 }
 
 .client_section .heading_container {
@@ -495,7 +495,7 @@ a:focus {
 
 .client_section .box .img-box {
   border-radius: 100%;
-  border: 10px solid #6bb7be;
+  border: 10px solid rgb(77, 166, 218);
   margin-right: 25px;
   min-width: 175px;
   max-width: 175px;
@@ -529,7 +529,7 @@ a:focus {
 }
 
 .client_section .box .detail-box .name h6 {
-  color: #6bb7be;
+  color: rgb(0, 81, 255);
   font-size: 20px;
 }
 
@@ -552,7 +552,7 @@ a:focus {
   background-repeat: no-repeat;
   background-size: 12px;
   background-position: center;
-  background-color: #6bb7be;
+  background-color: rgb(30, 154, 226);
   background-position: center;
   border-radius: 100%;
   margin: 0 2.5px;
@@ -589,13 +589,13 @@ a:focus {
   margin-bottom: 25px;
   padding-left: 15px;
   outline: none;
-  color: #101010;
+  color: #000000;
   -webkit-box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.05);
           box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.05);
 }
 
 .contact_section .form_container input::-webkit-input-placeholder {
-  color: #333;
+  color: #333333;
 }
 
 .contact_section .form_container input:-ms-input-placeholder {
@@ -619,17 +619,17 @@ a:focus {
   text-transform: uppercase;
   display: inline-block;
   padding: 12px 55px;
-  background-color: #6bb7be;
+  background-color: rgb(30, 154, 226);
   color: #ffffff;
   border-radius: 0px;
-  border: 1px solid #6bb7be;
+  border: 1px solid rgb(30, 154, 226);
   -webkit-transition: all .2s;
   transition: all .2s;
 }
 
 .contact_section .form_container button:hover {
   background-color: transparent;
-  color: #6bb7be;
+  color: rgb(71, 176, 236);
 }
 
 .contact_section .map_container {
@@ -656,7 +656,7 @@ a:focus {
 }
 
 .info_section {
-  background-color: #191e1f;
+  background-color: #242424;
   color: #ffffff;
   padding-top: 45px;
   padding-bottom: 45px;
@@ -696,7 +696,7 @@ a:focus {
 }
 
 .info_section .contact_nav a:hover {
-  color: #f89646;
+  color: rgb(70, 147, 248);
 }
 
 .info_section .info_top {
@@ -707,127 +707,6 @@ a:focus {
   text-transform: uppercase;
   position: relative;
   margin-bottom: 25px;
-}
-
-.info_section .info_links .info_links_menu {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-}
-
-.info_section .info_links .info_links_menu a {
-  color: #ffffff;
-  -ms-flex-preferred-size: 50%;
-      flex-basis: 50%;
-}
-
-.info_section .info_links .info_links_menu a:hover, .info_section .info_links .info_links_menu a.active {
-  color: #f89646;
-}
-
-.info_section .info_post .post_box {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
-
-.info_section .info_post .post_box .img-box {
-  min-width: 65px;
-  max-width: 65px;
-  height: 65px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  background-color: #ffffff;
-  -ms-flex-preferred-size: calc(33% - 10px);
-      flex-basis: calc(33% - 10px);
-  padding: 10px;
-  margin: 5px;
-}
-
-.info_section .info_post .post_box .img-box img {
-  max-width: 100%;
-  max-height: 100%;
-}
-
-.info_section .info_post .post_box p {
-  margin: 0;
-}
-
-.info_section .info_post .post_box:not(:nth-last-child(1)) {
-  margin-bottom: 15px;
-}
-
-.info_section .info_form input {
-  width: 100%;
-  border: none;
-  height: 45px;
-  margin-bottom: 15px;
-  padding-left: 25px;
-  background-color: #eaeaea;
-  outline: none;
-  color: #101010;
-}
-
-.info_section .info_form button {
-  display: inline-block;
-  padding: 10px 45px;
-  background-color: #6bb7be;
-  color: #ffffff;
-  border-radius: 0px;
-  border: 1px solid #6bb7be;
-  -webkit-transition: all .2s;
-  transition: all .2s;
-}
-
-.info_section .info_form button:hover {
-  background-color: transparent;
-  color: #6bb7be;
-}
-
-.info_section .info_form .social_box {
-  width: 100%;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  margin-top: 25px;
-}
-
-.info_section .info_form .social_box a {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  border-radius: 5px;
-  width: 45px;
-  height: 45px;
-  border: 1px solid #6bb7be;
-  color: #6bb7be;
-  font-size: 18px;
-  margin-right: 10px;
-}
-
-.info_section .info_form .social_box a:hover {
-  color: #f89646;
-  border-color: #f89646;
 }
 
 /* footer section*/
